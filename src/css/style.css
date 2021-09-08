@@ -206,3 +206,9 @@ align-items: center;
   transform: scale(1)!important;
   opacity: 1!important;
 }
+.row .col{
+  float: none!important;
+}
+.f-wrap{
+  flex-wrap: wrap;
+}
